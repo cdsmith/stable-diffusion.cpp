@@ -1,4 +1,4 @@
 numpy
-torch
+torch >= 1.10
 safetensors
 pytorch_lightning
